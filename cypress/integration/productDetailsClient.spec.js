@@ -22,7 +22,7 @@ describe('Criar tela de detalhes pedidos', () => {
     dropAndTruncateDataBase();
   }) 
 
- it('Será validado que é possível acessar a tela do detalhe do pedido', () => {
+  it('Será validado que é possível acessar a tela do detalhe do pedido', () => {
     login(Cypress.env('login'), Cypress.env('password'));
     buyOneProduct();
     accessOrdersClient();
