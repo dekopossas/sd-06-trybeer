@@ -1,3 +1,10 @@
+# TRYBEER
+Projeto dedicado a aplicação e desenvolvimento dos conteúdo de fullstack trabalhados duante o curso da trybe.
+
+### Link de apresentação em vídeo do projeto.
+
+[vídeo do projeto](https://www.linkedin.com/feed/update/urn:li:activity:6784823296094425088/)
+
 ### Termos e acordos
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe
